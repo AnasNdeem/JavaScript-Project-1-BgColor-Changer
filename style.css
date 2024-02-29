@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.canvas{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.canvas h1{
+      color: brown;
+      font-size: 40px;
+      margin: 40px;
+      padding: 40px;
+      background-color: bisque;
+}
+.canvas .button{
+    width: 100px;
+    height: 40px;
+    margin: 30px;
+    padding: 30px;
+    border: 2px solid black;
+}
+.canvas #grey{
+    background-color: grey;
+}
+.canvas #white{
+    background-color: white;
+}
+.canvas #blue{
+    background-color: blue;
+}
+.canvas #yellow{
+    background-color: yellow;
+}
+.canvas #purple{
+    background-color: purple;
+}
